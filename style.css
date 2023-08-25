@@ -77,13 +77,21 @@ body {
     margin: 0 auto;
 }
 
-.content img {
-    max-width: 100%;
+.pg1 {
+    max-width: 80%;
     height: auto;
     display: block;
     margin: 0 auto;
+    
 }
-
+.pg2{
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin-top: -175px;
+    margin-left: 130px;
+    align-items: center;
+}
 .text-box {
     text-align: center;
     margin-top: 20px;
@@ -166,4 +174,12 @@ body {
     font-size: 17px;
     font-weight: 200;
     margin-left: 15px;
+  }
+
+  .pg3{
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    max-width: 100%;
+    height: auto;
   }
